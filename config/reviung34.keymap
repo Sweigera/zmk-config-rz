@@ -47,7 +47,7 @@
             bindings = <
 &kp LS(EXCL)      &kp LS(AT)            &kp LS(POUND)         &kp LS(DLLR)  &kp LS(PRCNT)    &kp LS(CARET)  &kp LS(AMPS)           &kp LS(STAR)  &kp LS(LPAR)          &kp LS(RPAR)
 &kp SLASH         &kp NON_US_BACKSLASH  &kp LEFT_PARENTHESIS  &kp SQT       &kp U            &kp SQT        &kp RIGHT_PARENTHESIS  &kp SLASH     &kp NON_US_BACKSLASH  &kp X
-&kp LEFT_CONTROL  &kp LEFT_SHIFT        &kp C                 &kp P         &kp Z            &kp A          &kp T                  &kp N5        &kp N5                &kp SPACE
+&kp LEFT_CONTROL  &kp LEFT_SHIFT        &kp C                 &kp V         &kp Z            &kp A          &kp T                  &kp LEFT_WIN  &kp N5                &kp SPACE
                                                               &trans        &to 0            &to 0          &trans
             >;
         };
