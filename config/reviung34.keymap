@@ -39,7 +39,7 @@
 &kp ESCAPE      &kp EQUAL  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3    &kp COLON          &kp RIGHT_PARENTHESIS  &kp N0          &kp P            &kp LEFT_PARENTHESIS
 &kp TAB         &kp MINUS  &kp NUMBER_4  &kp N5        &kp NUMBER_6    &kp C_VOLUME_UP    &kp K_SCROLL_DOWN      &kp UP_ARROW    &kp K_SCROLL_UP  &kp ENTER
 &kp LEFT_SHIFT  &kp N0     &kp N7        &kp N8        &kp N9          &kp C_VOLUME_DOWN  &kp LEFT_ARROW         &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp RIGHT_SHIFT
-                                         &to 0         &to 0           &to 1              &to 0
+                                         &to 0         &to 0           &tog 1             &to 0
             >;
         };
 
@@ -48,7 +48,7 @@
 &kp LS(EXCL)      &kp LS(AT)            &kp LS(POUND)         &kp LS(DLLR)  &kp LS(PRCNT)    &kp LS(CARET)  &kp LS(AMPS)           &kp LS(STAR)  &kp LS(LPAR)          &kp LS(RPAR)
 &kp SLASH         &kp NON_US_BACKSLASH  &kp LEFT_PARENTHESIS  &kp SQT       &kp U            &kp SQT        &kp RIGHT_PARENTHESIS  &kp SLASH     &kp NON_US_BACKSLASH  &kp X
 &kp LEFT_CONTROL  &kp LEFT_SHIFT        &kp C                 &kp V         &kp Z            &kp A          &kp T                  &kp LEFT_WIN  &kp N5                &kp SPACE
-                                                              &trans        &to 2            &to 0          &trans
+                                                              &trans        &tog 2           &to 0          &trans
             >;
         };
 
